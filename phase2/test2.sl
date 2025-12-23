@@ -7,7 +7,7 @@ rakam y = 20;
 // If-else statement
 law (x < y) {
     etba3 "x is less than y";
-} wella {
+} walla {
     etba3 "x is greater or equal to y";
 }
 

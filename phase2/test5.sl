@@ -61,7 +61,7 @@ lef (rakam i = 1; i <= 5; i++) {
     law (isEven(i)) {
         etba3 "Even:";
         etba3 i;
-    } wella {
+    } walla {
         etba3 "Odd:";
         etba3 i;
     }

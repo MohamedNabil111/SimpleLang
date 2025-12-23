@@ -11,9 +11,6 @@
 #include <string.h>
 #include "y.tab.h"
 
-int yylineno = 1;
-void yyerror(const char *);
-
 // Column tracking for better error messages
 int column = 1;
 #define YY_USER_ACTION { column += yyleng; }

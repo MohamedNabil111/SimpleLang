@@ -233,7 +233,7 @@ etba3 result;
 law (x < y) {
     etba3 "x is less than y";
     x = x + 1;
-} wella {
+} walla {
     etba3 "x is greater or equal to y";
 }
 
@@ -276,7 +276,7 @@ ekhtar (x) {
         content = self.code_editor.get("1.0", "end")
         
         # Define patterns
-        keywords = r'\b(law|wella|tool ma|lef|karrar|le7ad|shoghla|ragga3|etba3|ekhtar|7ala|asasya|ekhla3|kamel|sabit)\b'
+        keywords = r'\b(law|walla|tool ma|lef|karrar|le7ad|shoghla|ragga3|etba3|ekhtar|7ala|asasya|ekhla3|kamel|sabit)\b'
         types = r'\b(rakam|kasr|kalam|mantiq)\b'
         booleans = r'\b(sa7|ghalat)\b'
         strings = r'"[^"]*"'
@@ -514,7 +514,7 @@ mantiq     - Boolean type
 sabit      - Constant declaration
 
 law        - If statement
-wella      - Else clause
+walla      - Else clause
 tool ma    - While loop
 lef        - For loop
 karrar     - Do-while

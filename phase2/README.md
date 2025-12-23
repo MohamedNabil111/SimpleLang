@@ -103,7 +103,7 @@ shoghla rakam add(rakam a, rakam b) {
 // Control flow
 law (x < 20) {
     etba3 "x is small";
-} wella {
+} walla {
     etba3 "x is large";
 }
 

@@ -1,0 +1,14 @@
+
+=== Scope Level 0 ===
+Name                 Type         DataType     SymType    Used       Initialized
+--------------------------------------------------------------------------------
+area                 kasr         Variable     Symbol     Yes        Yes       
+is_valid             mantiq       Variable     Symbol     No         Yes       
+x                    rakam        Variable     Symbol     Yes        Yes       
+y                    rakam        Variable     Symbol     Yes        Yes       
+z                    rakam        Variable     Symbol     Yes        Yes       
+radius               kasr         Variable     Symbol     Yes        Yes       
+pi                   kasr         Variable     Symbol     Yes        Yes       
+product              rakam        Variable     Symbol     Yes        Yes       
+greeting             kalam        Variable     Symbol     Yes        Yes       
+MAX_VALUE            rakam        Constant     Symbol     No         Yes       
