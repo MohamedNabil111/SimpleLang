@@ -61,3 +61,8 @@ desktop.ini
 
 # Test files (optional - uncomment if you want to ignore them)
 # test*.sl
+
+compiler
+lex.yy.c
+y.tab.c
+y.tab.h
